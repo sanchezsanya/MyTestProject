@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VKClient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_login">title_login string</string>
+    <string name="button_exit">Выйти</string>
+    <string name="text_loading">Идет загрузка</string>
+</resources>
